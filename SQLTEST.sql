@@ -1,0 +1,1 @@
+DELETE FROM userlogin WHERE idno = 1230;
